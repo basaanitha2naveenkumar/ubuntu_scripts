@@ -21,6 +21,7 @@ pip install jupyter
 conda install -c anaconda ipykernel
 ipython kernel install --user --name=test_gpu
 sudo apt install jupyter-core
+pip install opencv-python
 
 
 
